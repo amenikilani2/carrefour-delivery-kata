@@ -16,7 +16,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 1. Clonez le dépôt :
    bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone https://github.com/amenikilani2/carrefour-delivery-kata.git
    cd votre-repo
 
 
